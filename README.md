@@ -4,6 +4,8 @@ A small graphical display-settings tool for **X11 window managers without a buil
 settings panel** (written for Window Maker). It is a Tk front end for
 `xrandr` and works much like the Displays panel in GNOME.
 
+![Project logo](Screenshot.png)
+
 Two files:
 
 | File | Purpose |
